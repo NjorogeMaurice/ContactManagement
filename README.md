@@ -72,6 +72,14 @@ npm run dev
 ### 3. Set Up Environment Variables
 Create a .env and configure your environment variables, especially the database settings
 
+Add the following lines. Replace with your credentials 
+
+```bash
+DB_DATABASE=my_laravel_db
+DB_USERNAME=laravel_user
+DB_PASSWORD=your_password
+```
+
 ### 4. Generate Application Key
 
 ```bash
