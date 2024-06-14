@@ -46,13 +46,14 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-Follow these steps to set up and run the project locally.
+Follow these steps to set up and run the project locally
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/contact-management-system.git
-cd contact-management-system
+git clone https://github.com/NjorogeMaurice/ContactManagement.git
+
+cd ContactManagement
 ```
 
 ### 2. Install Dependencies
