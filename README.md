@@ -53,6 +53,44 @@ Follow these steps to set up and run the project locally.
 ```bash
 git clone https://github.com/your-username/contact-management-system.git
 cd contact-management-system
+```
+
+### 2. Install Dependencies
+Use Composer to install PHP dependencies
+
+```bash
+composer install
+```
+
+Use npm to install JavaScript dependencies
+```bash
+npm install
+npm run dev
+```
+
+### 3. Set Up Environment Variables
+Create a .env and configure your environment variables, especially the database settings
+
+### 4. Generate Application Key
+
+```bash
+php artisan key:generate
+```
+
+### 5. Run Database Migrations and Seeders
+
+```bash
+php artisan migrate --seed
+```
+
+### 6. Serve the Application
+You can serve the application using the built-in Laravel server:
+
+```bash
+php artisan serve
+```
+
+Open your browser at http://localhost:8000.
 
 
 
