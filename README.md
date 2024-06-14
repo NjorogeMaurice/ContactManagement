@@ -83,14 +83,15 @@ php artisan key:generate
 php artisan migrate --seed
 ```
 
-### 6. Serve the Application
-You can serve the application using the built-in Laravel server:
+## Running the Project
+
+You can serve/run the application using the built-in Laravel server:
 
 ```bash
 php artisan serve
 ```
 
-Open your browser at http://localhost:8000.
+Then open your browser at http://localhost:8000.
 
 
 
