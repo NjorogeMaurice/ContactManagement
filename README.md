@@ -22,7 +22,6 @@ The Contact Management System is designed to help users manage their contacts an
 - CRUD operations for contacts
 - CRUD operations for groups
 - Group assignment for contacts
-- Search functionality
 - Responsive design
 
 ## Technologies Used
